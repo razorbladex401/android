@@ -549,7 +549,6 @@
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
 <!-- Start XU -->
-  <project path="device/samsung" name="razorbladex401/device_samsung" />
   <project path="device/hardkernel/odroidxu" name="razorbladex401/device_hardkernel_odroidxu" />
   <project path="hardware/realtek" name="razorbladex401/hardware_realtek" />
   <project path="vendor/hardkernel/odroidxu" name="razorbladex401/vendor_hardkernel_odroidxu" />
